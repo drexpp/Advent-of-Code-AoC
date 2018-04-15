@@ -1,9 +1,9 @@
-package Days2017;
+package days2017;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Day1_2017 {
+public class Day1 {
 	public static void main(String[] args) {
 		
 		String test = "951484596541141557316984781494999179679767747627132447513171626424561779662873157761442952212296685573452311263445163233"

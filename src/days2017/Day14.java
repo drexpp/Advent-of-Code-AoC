@@ -3,7 +3,7 @@ package days2017;
 import java.io.File;
 import java.util.Scanner;
 
-import aux.HashKnotFunction;
+import auxFiles.HashKnotFunction;
 
 public class Day14 {
 

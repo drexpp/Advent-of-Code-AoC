@@ -1,8 +1,8 @@
-package Days2017;
+package days2017;
 
 import java.util.ArrayList;
 
-public class Day2_2017 {
+public class Day2 {
 
  public static void main(String[] args) {
   

@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-import aux.Triple;
+import auxFiles.Triple;
 
 public class Day11 {
 

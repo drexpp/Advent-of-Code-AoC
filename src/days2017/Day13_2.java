@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.Map;
 import java.util.Scanner;
 
-import aux.DeepCopy;
-import aux.Tuple;
+import auxFiles.DeepCopy;
+import auxFiles.Tuple;
 
 public class Day13_2 {
 

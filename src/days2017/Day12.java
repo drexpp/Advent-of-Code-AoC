@@ -55,15 +55,15 @@ public class Day12 {
 		aux = mapOfPipes.get(index);
 		for(Integer val : aux)
 			if(!solucion.contains(val))
-				aÃ±adirResultado(val);
+				añadirResultado(val);
 	}
 	
-	private static void aÃ±adirResultado(int mapIndex) {
+	private static void añadirResultado(int mapIndex) {
 		Set<Integer> aux2 = new HashSet<Integer>();
 		aux2 = mapOfPipes.get(mapIndex);
 		solucion.add(mapIndex);
 		for(Integer val : aux2)
 			if(!solucion.contains(val) && val != 0)
-				aÃ±adirResultado(val);
+				añadirResultado(val);
 	}
 }

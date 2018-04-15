@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
 
-import aux.Tuple;
+import auxFiles.Tuple;
 
 import java.util.Objects;
 
