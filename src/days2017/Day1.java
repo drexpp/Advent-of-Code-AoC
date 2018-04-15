@@ -3,6 +3,7 @@ package days2017;
 import java.util.HashMap;
 import java.util.Map;
 
+
 public class Day1 {
 	public static void main(String[] args) {
 		
