@@ -24,7 +24,7 @@ public class Day8 {
 		Integer valueAddToMapSigned;
 		
 		try{
-			input = new Scanner(new File("inputDay8.txt"));
+			input = new Scanner(new File("inputs/inputDay8.txt"));
 			
 		}catch(FileNotFoundException oops){
 			oops.printStackTrace();

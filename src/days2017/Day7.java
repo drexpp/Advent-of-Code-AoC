@@ -17,7 +17,7 @@ public class Day7 {
 		Long timeBeforeEx = System.currentTimeMillis();
 		
 		try {
-	        sc2 = new Scanner(new File("inputDay7.txt"));
+	        sc2 = new Scanner(new File("inputs/inputDay7.txt"));
 	    } catch (FileNotFoundException e) {
 	        e.printStackTrace();  
 	    }

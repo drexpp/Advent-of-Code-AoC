@@ -1,4 +1,4 @@
-package days2017;
+﻿package days2017;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -13,7 +13,7 @@ public class Day5 {
 		Integer stepsResult = 0;
 		
 		try {
-	        sc2 = new Scanner(new File("inputDay5.txt"));
+	        sc2 = new Scanner(new File("inputs/inputDay5.txt"));
 	    } catch (FileNotFoundException e) {
 	        e.printStackTrace();  
 	    }

@@ -25,7 +25,7 @@ public class Day8_2 {
 		Integer maxValue = 0;
 		
 		try{
-			input = new Scanner(new File("inputDay8.txt"));
+			input = new Scanner(new File("inputs/inputDay8.txt"));
 			
 		}catch(FileNotFoundException oops){
 			oops.printStackTrace();

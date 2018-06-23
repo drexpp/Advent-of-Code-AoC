@@ -76,7 +76,7 @@ public class Day10 {
 		
 		
 		try {
-			scanner = new Scanner(new File("inputDay10.txt"));
+			scanner = new Scanner(new File("inputs/inputDay10.txt"));
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}

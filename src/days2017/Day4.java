@@ -16,7 +16,7 @@ public class Day4 {
 		Map<String, Integer> map = new HashMap<String, Integer>();
 		
 	    try {
-	        sc2 = new Scanner(new File("inputDay4.txt"));
+	        sc2 = new Scanner(new File("inputs/inputDay4.txt"));
 	    } catch (FileNotFoundException e) {
 	        e.printStackTrace();  
 	    }

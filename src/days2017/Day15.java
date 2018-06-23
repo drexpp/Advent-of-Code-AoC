@@ -13,7 +13,7 @@ public class Day15 {
 
 		
 		try{
-			sc2 = new Scanner(new File("inputDay15.txt"));
+			sc2 = new Scanner(new File("inputs/inputDay15.txt"));
 		}catch(Throwable oops){
 			oops.printStackTrace();
 		}
