@@ -1,3 +1,4 @@
-# Advent-of-Code-AoC-2017
+# Advent of Code
 
-Done in java
+2017 Done in java
+2018 Done in Python
