@@ -30,6 +30,6 @@ for idx, c in enumerate([c for c in "abcdefghijklmnopqrstuvwxyz"]):
   else:
     if len(filtered) > compare: 
       filtered_length = polymer_length(filtered)
-    if filtered_length < compare:
-      compare = filtered_length
+      if filtered_length < compare:
+        compare = filtered_length
 print('Lowest length value', compare)
